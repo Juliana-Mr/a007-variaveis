@@ -2,11 +2,13 @@
 // prompt ("Você é casado(a)?")
 // prompt ("você possui animais de estimação?")
 
-// b)
-let brasileiro = "sim"
-let casado = "sim" 
-let animal= "não" 
+// a)
+let brasileiro = prompt ("Você é bresileiro(a)?")
+let casado = prompt ("Você é casado(a)?") 
+let animal= prompt ("você possui animais de estimação?")
 
+
+// b
 console.log(brasileiro,casado,animal)
 
 // c)
@@ -23,4 +25,4 @@ const respostaC = prompt(perguntaC)
 // d)
 console.log(perguntaA,":",respostaA)
 console.log(perguntaB,":",respostaB)
-console.log(perguntaC,";",respostaC)
+console.log(perguntaC,":",respostaC)
