@@ -9,8 +9,7 @@ Construa um programa, seguindo os seguintes passos:
 
 **d)** Reflita: por que esse tipo foi impresso? Escreva a resposta em um comentário de código.
 
-**e)** Depois, disso, atualize o código para **perguntar** ao usuário seu nome e sua idade, atribuindo esses dois valores às variáveis que acabou de criar.
-    
+**e)** Depois, disso, atualize o código para **perguntar** ao usuário seu nome e sua idade, atribuindo esses dois valores às variáveis que acabou de criar. 
 
 >💡Se você receber um erro de código nessa etapa, reflita sobre o tipo de declaração que utilizou.
     
@@ -23,4 +22,4 @@ Construa um programa, seguindo os seguintes passos:
 ```jsx
 console.log(valor1, valor2)
 ```
-    
+   
